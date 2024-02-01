@@ -38,4 +38,4 @@ async def check(ctx):
     else:
         await ctx.send('Mana file yang dikirim?')
 
-bot.run("MTEwMzk4MzA3NTE4MTk5ODE0MQ.GyvvKJ.L4rq0deCK22DVcLVQ-G10vQXUP3Ts-9zAOGSew")
+bot.run("Your Discord bot token")
