@@ -5,8 +5,8 @@ Ini proyek Hackathon
 Bot Discord untuk membedakan sampah organik dan anorganik
 
 ## BAHAN
-Library Discord
-Tensorflow
-Foto sampah organik dan anorganik
-Keras
+Library Discord - 
+Tensorflow - 
+Foto sampah organik dan anorganik - 
+Keras - 
 Pillow
